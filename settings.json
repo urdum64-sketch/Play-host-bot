@@ -8,7 +8,7 @@
   "server": {
     "ip": "Vast.worlds.play.hosting",
     "port": 25565,
-    "version": "26.1.2",
+    "version": "false",
     "try-creative": false
   },
   "position": {
